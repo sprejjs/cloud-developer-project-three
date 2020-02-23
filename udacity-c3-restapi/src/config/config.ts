@@ -7,7 +7,7 @@ export const config = {
     "dialect": "postgres",
     "aws_reigion": process.env.UDAGRAM_AWS_REGION,
     "aws_profile": process.env.UDAGRAM_AWS_PROFILE,
-    "aws_media_bucket": process.env.UDAGRAM_AWS_MEDIA
+    "aws_media_bucket": process.env.UDAGRAM_AWS_MEDIA_BUCKET
   },
   "prod": {
     "username": "",
