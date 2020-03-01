@@ -6,3 +6,9 @@ services:
 script:
   - cd udacity-c3-deployment/docker
   - docker build -t vspreys/reverseproxy .
+  - cd ../../udacity-c3-restapi-user
+  - docker build -t vspreys/udacity-restapi-user .
+  - cd ../udacity-c3-restapi-feed
+  - docker build -t vspreys/udacity-restapi-feed .
+  - cd ../udacity-c3-frontend
+  - docker build -t vspreys/udacity-frontend
