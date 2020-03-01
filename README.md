@@ -1,12 +1,12 @@
-#Evidence of completed project
-##Docker Hub
-###Link:
+# Evidence of completed project
+##D ocker Hub
+### Link:
 https://hub.docker.com/u/vspreys
 
-###Screenshot:
+### Screenshot:
 ![Hub image](doc/images/dockerhub.png)
 
-##Kubernetes
+## Kubernetes
 ### Services screenshot:
 ![Kubernetest services](doc/images/kubectl-services.png)
 
