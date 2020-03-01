@@ -18,7 +18,7 @@ https://github.com/sprejjs/cloud-developer-project-three
 
 ## Travis CI
 ### Screenshot:
-
+![Travis](doc/images/travis.png)
 
 ### Build badge:
 ![Badge](https://travis-ci.org/sprejjs/cloud-developer-project-three.svg?branch=master)
