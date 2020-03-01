@@ -11,4 +11,4 @@ script:
   - cd ../udacity-c3-restapi-feed
   - docker build -t vspreys/udacity-restapi-feed .
   - cd ../udacity-c3-frontend
-  - docker build -t vspreys/udacity-frontend
+  - docker build -t vspreys/udacity-frontend .
