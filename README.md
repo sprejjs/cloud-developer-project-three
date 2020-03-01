@@ -14,7 +14,7 @@ https://hub.docker.com/u/vspreys
 ![Kubernetes pods](doc/images/kubectl-pods.png)
 
 ## Github repo link:
-https://github.com/sprejjs/cloud-developer-project-3
+https://github.com/sprejjs/cloud-developer-project-three
 
 ## Travis CI
 ### Screenshot:
