@@ -1,0 +1,8 @@
+language: ruby
+
+services:
+  - docker
+
+before_install:
+  - cd udacity-c3-deployment/docker
+  - docker build -t vspreys/reverseproxy .
